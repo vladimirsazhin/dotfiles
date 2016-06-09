@@ -1,0 +1,16 @@
+[user]
+	name = Владимир Сажин
+	email = vladimir@sazhin.sexy
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+[color]
+	ui = true
+[core]
+	excludesfile = ~/.gitignore
+	quotepath = false
+[push]
+	default = simple
+[pull]
+	rebase = true
