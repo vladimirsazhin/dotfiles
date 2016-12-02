@@ -1,10 +1,13 @@
 [user]
-	name = Владимир Сажин
-	email = vladimir@sazhin.sexy
+	name = Vladimir Sazhin
+	email = vladimirsazhin@jetstyle.ru
+	signingkey = 6EEE3A6E
 [alias]
 	co = checkout
 	ci = commit
-	st = status
+	ri = rebase -i
+	st = status -sb
+	short = rev-parse --short
 [color]
 	ui = true
 [core]
@@ -14,3 +17,5 @@
 	default = simple
 [pull]
 	rebase = true
+[log]
+	abbrevCommit = true
