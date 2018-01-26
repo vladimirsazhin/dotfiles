@@ -1,6 +1,3 @@
-shopt -u -o history
-
-export PATH=~/.npm/bin:$PATH
 [ -f ~/.bash_variables ] && . ~/.bash_variables
 
 [ -f $(brew --prefix)/etc/bash_completion.d/git-prompt.sh ] && . $(brew --prefix)/etc/bash_completion.d/git-prompt.sh

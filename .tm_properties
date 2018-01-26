@@ -1,8 +1,0 @@
-tabSize = 2
-softTabs = true
-
-[ *.html ]
-tabSize = 4
-
-[ *.php ]
-tabSize = 4

@@ -1,7 +1,6 @@
 [user]
 	name = Vladimir Sazhin
 	email = vladimirsazhin@jetstyle.ru
-	signingkey = 6EEE3A6E
 [alias]
 	co = checkout
 	ci = commit
