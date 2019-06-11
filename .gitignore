@@ -5,8 +5,6 @@
 .sass-cache
 *.gem
 *.sqlite3
-*~
-bower_components
 config/*.yml
 log
 node_modules

@@ -1,20 +1,13 @@
 [user]
 	name = Vladimir Sazhin
-	email = vladimirsazhin@jetstyle.ru
-[alias]
-	co = checkout
-	ci = commit
-	ri = rebase -i
-	st = status -sb
-	short = rev-parse --short
+	email =
+	signingkey =
 [color]
 	ui = true
 [core]
 	excludesfile = ~/.gitignore
 	quotepath = false
-[push]
-	default = simple
-[pull]
-	rebase = true
 [log]
 	abbrevCommit = true
+[commit]
+	gpgsign = true
